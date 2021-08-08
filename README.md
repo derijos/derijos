@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Dereck Jos</h1>
 <h3 align="center">Final year IT student who is interested in creating machine learning/computer vison web based apps using Flask framework and deploying the apps to Azure and Heroku cloud. I also solve challenges in Hacker Rank at free time. I have created many projects based on machine learning, computer vision, chatbot using google Dialogflow, NLP based web apps that uses firebase as real time database.</h3>
 <br>
-<h1 align="left">Project Info..</h1>
+<h1 align="left">Project Info...</h1>
 
 - 🔭 I’m currently working on [Career Advisor using AI](https://career-advisor-10.azurewebsites.net/)
 
